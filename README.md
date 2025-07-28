@@ -91,3 +91,5 @@ cd-1pic.jpg: Output image of the visualized decision tree
 README.md: This documentation file
 
 **OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/bd4c5060-c879-42c6-8ec8-b9549c9923d4)
